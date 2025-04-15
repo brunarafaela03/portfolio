@@ -7,8 +7,18 @@ h1{
  border:double
 }
 
-.titulo{
+.titulo
     color:aqua;
     text-align: center;
-}
-]
+ button{
+    color:azure;
+    font: size 50px;
+
+ }
+    
+        .imagem-flor {
+            width: 400px;
+
+        }
+    
+
